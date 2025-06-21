@@ -4,7 +4,6 @@ $user = "root";
 $pk = "";
 $jname = "test2"; 
 
-
 $firstname = $_POST["name"];
 $email = $_POST["email"];
 $website = $_POST["website"];
